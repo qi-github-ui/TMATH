@@ -3,6 +3,7 @@ Dataset for the paper: Machine Tutor for Mathematics Learning: Unveiling the Abi
 ## Description
 This repository hosts the Socratic Math Hints Dataset, a curated collection of hints for various mathematical problems. The hints are presented in a Socratic dialogue format, promoting an inquisitive learning approach.
 
+![Uploading dataset.png…]()
 
 <img width="1299" alt="dataset" src="https://github.com/qi-github-ui/HMATH/assets/73466589/4d35e2e6-7b49-467e-afd5-e0182e0290f4">
 
