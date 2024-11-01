@@ -1,5 +1,4 @@
 # HMATH
-Dataset for the paper: Machine Tutor for Mathematics Learning: Unveiling the Ability of Large Language Models in Providing Math Word Problem Solving Hints
 ## Description
 This repository hosts the Socratic Math Hints Dataset, a curated collection of hints for various mathematical problems. The hints are presented in a Socratic dialogue format, promoting an inquisitive learning approach.
 
