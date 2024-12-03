@@ -1,4 +1,4 @@
-# HMATH
+# TMATH
 ## Description
 This repository hosts the Socratic Math Hints Dataset, a curated collection of hints for various mathematical problems. The hints are presented in a Socratic dialogue format, promoting an inquisitive learning approach.
 
